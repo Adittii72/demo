@@ -1,4 +1,4 @@
 # demo
-Author - Aditi S.
+Author - Aditi Shrimankar.
 <br>
 Hello everyone.
